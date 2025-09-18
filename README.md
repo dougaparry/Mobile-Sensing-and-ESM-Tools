@@ -24,8 +24,8 @@ Feel free to suggest additions.
     - Start dates have to be set manually
     - Data export for larger datasets sometimes tricky or needs to be done per participant
     - Conditional logic somewhat limited but possible
-- GESIS AppKit
-- m-Path
-- Avicenna
+- **GESIS AppKit**
+- **m-Path**
+- **Avicenna**
 
   
