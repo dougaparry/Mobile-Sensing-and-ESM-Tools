@@ -16,4 +16,14 @@ Feel free to suggest additions.
     - Plus tier: free tier + unlimited notifications, pulse surveys, timezone adaptations, offline data collection, participant dashboards, collection of image, audio, and video data (uploads), item logic
     - Premium tier: plus tier + screener questions, event triggers (JITAI), GPS location, dynamic links, dyadic data collection, custom notifications, cognitive testing modules
     - Sensor+ tier: Premium tier + fitbit inegration (sleep, activity, heartrate, breating rate, core temperatures, etc.), apple watch integration (HealthKit)
+- **[SEMA3](https://sema3.eresearch.unimelb.edu.au/dashboard)** (information date: 18.09.2025)
+  - Examples: [1](https://doi.org/10.3758/s13428-024-02445-w), [2](https://doi.org/10.1371/journal.pone.0327179)
+  - Compatibility: iOS and Android
+  - Compliance: GDPR data processing agreement possible
+  - Pricing: **Free** (donation is helpful) 
+  - Missing features (as of information date):
+    - Start dates have to be set manually
+    - Data export for larger datasets sometimes tricky or needs to be done per participant
+    - Conditional logic somewhat limited but possible 
+
   
