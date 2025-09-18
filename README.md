@@ -11,8 +11,9 @@ Feel free to suggest additions.
   - Compatibility: iOS and Android
   - Compliance: HIPAA, GDPR
   - Pricing: **not public**
-  - Free tier: unlimited participants, unlimited responses, link participants across surveys
-  - Plus tier: free tier + unlimited notifications, pulse surveys, timezone adaptations, offline data collection, participant dashboards, collection of image, audio, and video data (uploads), item logic
-  - Premium tier: plus tier + screener questions, event triggers (JITAI), GPS location, dynamic links, dyadic data collection, custom notifications, cognitive testing modules
-  - Sensor+ tier: Premium tier + fitbit inegration (sleep, activity, heartrate, breating rate, core temperatures, etc.), apple watch integration (HealthKit)
+  - Subscription tiers:
+    - Free tier: unlimited participants, unlimited responses, link participants across surveys
+    - Plus tier: free tier + unlimited notifications, pulse surveys, timezone adaptations, offline data collection, participant dashboards, collection of image, audio, and video data (uploads), item logic
+    - Premium tier: plus tier + screener questions, event triggers (JITAI), GPS location, dynamic links, dyadic data collection, custom notifications, cognitive testing modules
+    - Sensor+ tier: Premium tier + fitbit inegration (sleep, activity, heartrate, breating rate, core temperatures, etc.), apple watch integration (HealthKit)
   
