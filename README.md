@@ -11,6 +11,7 @@ Feel free to suggest additions.
   - Compatibility: iOS and Android
   - Compliance: HIPAA, GDPR
   - Pricing: **not public**
+  - Data: primarily self-report but some sensor data at higher tiers
   - Subscription tiers:
     - Free tier: unlimited participants, unlimited responses, link participants across surveys
     - Plus tier: free tier + unlimited notifications, pulse surveys, timezone adaptations, offline data collection, participant dashboards, collection of image, audio, and video data (uploads), item logic
