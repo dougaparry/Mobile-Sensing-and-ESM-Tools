@@ -6,7 +6,7 @@ Feel free to suggest additions.
 
 ## Experience Sampling Tools
 
-- **[ExpiWell](https://www.expiwell.com/)** (added: 18.09.2025)
+- **[ExpiWell](https://www.expiwell.com/)** (information date: 18.09.2025)
   - Examples: [1](https://doi.org/10.1002/mhs2.55), [2](https://doi.org/10.1177/23328584211065725), [3](https://psycnet.apa.org/doi/10.1037/ppm0000601)
   - Compatibility: iOS and Android
   - Compliance: HIPAA, GDPR
